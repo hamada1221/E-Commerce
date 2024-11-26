@@ -1,1 +1,0 @@
-import{j as e}from"./index-x36sV1S1.js";const t="/E-Commerce/assets/error-B1_ZqxX0.svg";function s(){return e.jsxs("div",{className:"text-green-600 py-5 text-center",children:[e.jsx("p",{children:"Not Found"}),e.jsx("img",{src:t,alt:"Notfound",className:"m-auto"})]})}export{s as default};

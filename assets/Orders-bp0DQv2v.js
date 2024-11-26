@@ -1,1 +1,0 @@
-import{j as e}from"./index-x36sV1S1.js";const s="/E-Commerce/assets/payment-done-DGtAaGoC.png";function r(){return e.jsx("div",{className:"container flex justify-center",children:e.jsx("img",{src:s,alt:""})})}export{r as default};
